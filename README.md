@@ -1,1 +1,1 @@
-# Device-lgeh815
+# efidroid device tree for all LG G4 devices
